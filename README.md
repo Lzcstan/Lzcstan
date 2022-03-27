@@ -1,4 +1,4 @@
-## Hello world👋, this is Zhengchao Luo(罗正潮).
+## Hello world👋, this is Tiding Luo(罗正潮).
 
 - 📖 Majoring in Biomedical Engineering, HUST(华中科技大学).
 - 🧑🏻‍💻 Researcher & Python programmer, also programming in C++, Objective-C, Swift and so on.

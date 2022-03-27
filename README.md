@@ -6,6 +6,6 @@
 - :email: Do feel free to send me an email at Tiding.Luo@gmail.com.
 
 
-![Lzcstan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lzcstan&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lzcstan&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzcstan&layout=compact)](https://github.com/Lzcstan/github-readme-stats)

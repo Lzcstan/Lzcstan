@@ -2,7 +2,7 @@
 
 - 📖 PhD student in Big Data & Biomedical AI(BDBA), PKU, College of Future Technology.
 - 🧑🏻‍💻 Researcher & Python programmer, also programming in C++, Objective-C, Swift and so on.
-- 🎧 Listen to Japanese music, favourite singer: Sheena Ringo.
+- 🎧 Listen to Japanese music, favorite singer: Hongxuan Liao.
 - :email: Do feel free to send me an email at Tiding.Luo@gmail.com or Tiding.Luo@stu.pku.edu.cn.
 
 

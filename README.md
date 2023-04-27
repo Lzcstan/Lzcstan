@@ -5,7 +5,5 @@
 - 🎧 Listen to Japanese rock music, favorite singer: Sheena Ringo.
 - :email: Do feel free to send me an email at Tiding.Luo@gmail.com or Tiding.Luo@stu.pku.edu.cn.
 
-
-[![Tiding's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lzcstan&show_icons=true&include_all_commits=true)](https://github.com/Lzcstan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lzcstan)](https://github.com/Lzcstan/github-readme-stats)
+| <a href="https://github.com/Lzcstan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lzcstan&show_icons=true&include_all_commits=true&hide_border=true" alt="Tiding's GitHub stats" /></a> | <a href="https://github.com/Lzcstan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lzcstan&hide_border=true" /></a> |
+| ------------- | ------------- |
